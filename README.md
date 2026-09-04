@@ -271,16 +271,3 @@ streamlit run app.py
 
 `docs/technical_design.md` explains the system design, module responsibilities, data flow, machine learning workflow, report export workflow, and LLM insight workflow.
 
-## Current Version
-
-### V2.6A - Public Portfolio Polish
-
-The current version supports automatic dataset analysis, smart column detection, data quality assessment, correlation analysis, machine learning task suggestion, baseline classification and regression model training, model download for the best baseline sklearn Pipeline, a prediction demo using the trained baseline Pipeline, an improved Markdown report, optional AI-generated insights with OpenAI or Gemini fallback, and CSV or Excel uploads.
-
-The project now includes public technical design documentation and keeps interview and resume preparation materials outside the public repository.
-
-## Future Improvements
-
-- Add advanced model tuning
-- Add SHAP-based model explanation
-- Keep screenshots updated when the UI changes
