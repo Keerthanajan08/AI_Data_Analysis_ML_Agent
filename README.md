@@ -2,10 +2,6 @@
 
 An end-to-end Streamlit application for CSV and Excel dataset analysis, data quality checking, AI-assisted insight generation, baseline machine learning training, model download, prediction demo, and Markdown/Word/PDF report generation.
 
-## Live Demo
-
-[Open the Streamlit App](https://ai-data-analysis-ml-agent.streamlit.app)
-
 ## Project Overview
 
 **AI Data Analysis & ML Agent** helps users quickly understand a dataset and complete a first-pass machine learning workflow without manually writing repeated exploratory data analysis code.
@@ -288,13 +284,3 @@ The project now includes public technical design documentation and keeps intervi
 - Add advanced model tuning
 - Add SHAP-based model explanation
 - Keep screenshots updated when the UI changes
-
-## Resume-Ready Project Summary
-
-**AI Data Analysis & ML Agent** — Built an end-to-end Streamlit application that automates dataset profiling, data quality assessment, AI-assisted insight generation, baseline machine learning training, model evaluation, model download, single-sample prediction, and Markdown/Word/PDF report generation for CSV and Excel datasets.
-
-## Author
-
-Chen Hongyu  
-Master of Artificial Intelligence  
-Universiti Kebangsaan Malaysia
