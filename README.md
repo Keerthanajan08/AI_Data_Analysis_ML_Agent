@@ -238,7 +238,7 @@ AI_Data_Analysis_ML_Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lovis-Ghost/AI_Data_Analysis_ML_Agent.git
+git clone https://github.com/Keerthanajan08/AI_Data_Analysis_ML_Agent.git
 cd AI_Data_Analysis_ML_Agent
 ```
 
